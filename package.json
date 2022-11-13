@@ -9,13 +9,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@nutui/nutui": "^3.2.6",
+    "amfe-flexible": "^2.2.1",
+    "lib-flexible": "^0.3.2",
+    "vant": "^3.6.5",
     "vue": "^3.2.41",
     "vue-router": "^4.1.6"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.2.0",
-    "consola": "^2.15.3",
+    "postcss": "^8.4.19",
+    "postcss-pxtorem": "^6.0.0",
+    "unplugin-vue-components": "^0.22.9",
     "vite": "^3.2.3",
     "vite-plugin-style-import": "^2.0.0"
   }
